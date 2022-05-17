@@ -141,6 +141,16 @@ section {
     color: var(--fuchsia);
 }
 
+.aqua {
+    background-color: var(--aqua);
+    color: var(--aqua);
+}
+
+.silver {
+    background-color: var(--silver);
+    color: var(--silver);
+}
+
 .black-text {
     color: black;
 }
